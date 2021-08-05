@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amna-Qassim
-- 👀 I’m interested in Front-End Developer
+- 👀 I’m a junior front end developer
 - 🌱 I’m currently learning React and work on some projects
-- 💞️ I’m looking to collaborate on an internship or job as a front-end developer
-- 📫 How to reach me Twitter: https://twitter.com/Amna68015590, E-mail: amnakassim6@gmail.com
+- 💞️ I’m looking for internship and junior front end development opportunities
+- 📫 Reach me on Twitter: https://twitter.com/Amna68015590, and my E-mail: amnakassim6@gmail.com
 
 <!---
 Amna-Qassim/Amna-Qassim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
