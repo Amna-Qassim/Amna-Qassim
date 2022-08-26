@@ -2,7 +2,7 @@
 - 👀 I’m a junior front end developer
 - 🌱 I’m currently learning React and work on some projects
 - 💞️ I’m looking for internship and junior front end development opportunities
-- 📫 Reach me on Twitter: https://twitter.com/Amna68015590, and my E-mail: amnakassim6@gmail.com
+- 📫 Reach me on Twitter: https://twitter.com/Amna68015590, and my E-mail: amnakassim66@gmail.com
 
 
 <!---
