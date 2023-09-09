@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amna-Qassim
-- 👀 I’m a junior front end developer
-- 🌱 I’m currently learning React and work on some projects
-- 💞️ I’m looking for internship and junior front end development opportunities
+- 👀 I’m a mid front end developer
+- 🌱 I’m currently learning React in advance level and work on some projects
 - 📫 Reach me on Twitter: https://twitter.com/Amna68015590, and my E-mail: amnakassim66@gmail.com
 
 
